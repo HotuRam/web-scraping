@@ -248,6 +248,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <br /> 
   
 ### 1. Here I successfully extarct the google ad from the webpage which is in pdf form.         
