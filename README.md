@@ -68,8 +68,8 @@
  ##### yup, we extract the google ad with other images(logo) successfully....great..
  
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="450" height="300" />
-  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/13.png?raw=true" width="300" height="1000" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="400" height="300" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/13.png?raw=true" width="400" height="300" />
 <br />
 <br />
 <br />
@@ -86,9 +86,9 @@
 <br />
 <br />
 
-
+## Logo
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/15.png?raw=true" width="200" height="1000" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/15.png?raw=true" width="200" height="100" />
 <br />
 
 
@@ -139,7 +139,7 @@
  
 <br />
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/13.png?raw=true" width="450" height="300" />
-  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/16.png?raw=true" width="450" height="300" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/16.png?raw=true" width="100" height="1000" />
 <br />
 <br />
 <br />
@@ -156,8 +156,8 @@
 <br />
 <br />
 
-##  LOGO
+
 <br />
-  <img align="middle" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/15.png?raw=true" width="200" height="100" />
+  <img align="middle" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/15.png?raw=true" width="100" height="1000" />
 <br />
 
