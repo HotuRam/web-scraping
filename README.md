@@ -64,5 +64,5 @@
  ##### yup, we extract the google ad with other images(logo) successfully....great..
  
  ## now its time to extract the text from google ad 
- ##### here easy ocr come in play.....
+ ##### here easyocr come in play.....
  
