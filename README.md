@@ -190,6 +190,10 @@
         cd module2
         
  ### Open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
+ ##                                       or
+ 
+ ###      open the img2text.ipynb for better understanding run all the cell
+ 
   ####          You are good to go and we successfully extract the text from above google ad. 
 
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/text_image%20_13.png?raw=true" width="800" height="450" />
