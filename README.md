@@ -208,5 +208,25 @@
         
  ### open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
   ####          you are good to go and we successfully extract the text from google ad. 
+
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/text_image%20_13.png?raw=true" width="800" height="450" />
+<br />
+<br />
+<br />
+<br />
+<br />    
+<br />    
+<br />
+<br />    
+<br /> 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+  
+  
+  
   
 
