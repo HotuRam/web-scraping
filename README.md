@@ -85,15 +85,12 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ##  LOGO
 <br />
   <img align="middle" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/15.png?raw=true" width="200" height="100" />
 <br />
-<br />
-<br />
+
 
  ## now its time to extract the text from google ad 
  ##### here easyocr come in play.....
