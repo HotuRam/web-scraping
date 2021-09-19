@@ -9,7 +9,7 @@
 
 # So here we go........... this is our webpage (below)
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/sample_1.pdf?raw=true" width="800" height="450" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/17.png?raw=true" width="800" height="450" />
 <br />
 <br />
 <br />
@@ -28,8 +28,10 @@
 <br />
 <br />
 <br />
-
-
+<br />
+<br />
+#### ...we scrap this webpage and make a pdf,(which I can,t do that but I tried my very best)
+### after that just follow the instruction...
 
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
