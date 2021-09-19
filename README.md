@@ -103,8 +103,8 @@
  
         cd module2
         
- ### open file name image_to_text.py give appropriate path of google ad(image file which is...) 
-  ####          you are good to go and we successfully extract the text from google ad. 
+ ### Open file name image_to_text.py give appropriate path of google ad(image file which is...) 
+  ####          You are good to go and we successfully extract the text from google ad. 
   
   
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/ocr_text.png?raw=true" width="800" height="450" />
@@ -141,7 +141,7 @@
      
 ### Open module1.py file give the path of webpage(webpage is a pdf file..in our case sample_2.pdf)
 
-### run the py file
+### Run the py file
 
 
  #### Yup, we extract the google ad with other images successfully....great..
@@ -189,8 +189,8 @@
  
         cd module2
         
- ### open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
-  ####          you are good to go and we successfully extract the text from above google ad. 
+ ### Open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
+  ####          You are good to go and we successfully extract the text from above google ad. 
 
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/text_image%20_13.png?raw=true" width="800" height="450" />
   
@@ -209,12 +209,17 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 
  ## Its time to draw the Ractangle box on text
  
- ## open the img2text.ipynb and give the google ad image path (absolute path please)
-  ## run all cell you got the output like 
+ ## Open the img2text.ipynb and give the google ad image path (absolute path please)
+  ## Run all cell you got the output like 
   
 <br />
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/%231_live_streming_studio.png?raw=true" width="450" height="300" />
