@@ -189,10 +189,10 @@
  ###  Here, easyocr come in play.....
  
         
- ### Open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
+ ### Open  module2 folder and the file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
  ##                                       or
  
- ###      open the img2text.ipynb for better understanding run all the cell
+ ###      open module2 folder and the img2text.ipynb for better understanding run all the cell
  
   ####          You are good to go and we successfully extract the text from above google ad. 
 
