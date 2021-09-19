@@ -121,4 +121,15 @@
 <br />
   
   
+ # Here we see how our code work on new data...right
  
+### Just open this link - https://www.onlineconverter.com/add-audio-to-video
+ 
+#### print this page (which have google ad.) save this as pdf name sample_2.pdf
+
+## then here we go
+      
+     
+###### open module1.py file give the path of webpage(webpage is a pdf file..in our case sample_2.pdf)
+
+ ##### yup, we extract the google ad with other images successfully....great..
