@@ -88,7 +88,10 @@
 
 ## Logo
 <br />
+<br />
+
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/15.png?raw=true" width="200" height="100" />
+<br />
 <br />
 <br />
 
