@@ -132,4 +132,6 @@
      
 ### Open module1.py file give the path of webpage(webpage is a pdf file..in our case sample_2.pdf)
 
+### run the py file
+
  #### Yup, we extract the google ad with other images successfully....great..
