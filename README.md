@@ -142,7 +142,7 @@
      
 ### Open module1.ipynb file give the path of webpage(webpage is a pdf file..in our case sample_3.pdf)
 
-### Run the py file
+### Run the ipynb file
 
 
  #### Yup, we extract the google ad with other images successfully....great..
