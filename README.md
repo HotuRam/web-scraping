@@ -10,7 +10,7 @@
 # Just follow the Instruction in repo you find all the things.. 
 # So here we go........... this is our webpage (below)
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/17.png?raw=true" width="800" height="450" />
+<!--   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/17.png?raw=true" width="800" height="450" /> -->
 <br />
 <br />
 <br />
