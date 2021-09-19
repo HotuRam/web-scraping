@@ -267,4 +267,6 @@
 
 ### I tried alot to scrap the webpage and extraxt the google ad but I was not able to do that using beatufulsoup and other tools.     
 
+### I an not stoping yet, I will read more and find a way to how to scrap a google ad from webpage, I enjoy the task 
 
+# ---------------------------------End of the project once ------------------------------------
