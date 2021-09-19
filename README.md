@@ -34,11 +34,11 @@
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
 
-         conda create --name image_scraping_new python=3.7
+         conda create --name web_scraping_new python=3.7
          
  ##### Activate the environment
     
-         conda activate image_scraping_new
+         conda activate web_scraping_new
          
  ##### Install jupyter
          
@@ -53,5 +53,5 @@
  ## requirements-
   ---- copy and paste below code in cmd
   
-      cd Image-scraping-Python-
+      cd webpage_scraping
       pip install -r requirements.txt
