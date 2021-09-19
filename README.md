@@ -140,7 +140,7 @@
 ## Then here we go
       
      
-### Open module1.py file give the path of webpage(webpage is a pdf file..in our case sample_3.pdf)
+### Open module1.ipynb file give the path of webpage(webpage is a pdf file..in our case sample_3.pdf)
 
 ### Run the py file
 
