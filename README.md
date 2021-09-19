@@ -55,3 +55,14 @@
   
       cd webpage_scraping
       pip install -r requirements.txt
+      
+ ## here we go
+      
+      cd module1
+     
+###### open module1.py file give the path of webpage(webpage is a pdf file)
+ ##### yup, we extract the google ad with other images(logo) successfully....great..
+ 
+ ## now its time to extract the text from google ad 
+ ##### here easy ocr come in play.....
+ 
