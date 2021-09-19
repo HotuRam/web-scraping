@@ -2,3 +2,4 @@ fitz
 PyMuPDF
 cv2
 easyocr
+matplotlib
