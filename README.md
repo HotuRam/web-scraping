@@ -31,7 +31,7 @@
 <br />
 <br />
 
-### If we scrap this webpage(which I can,t do that but I tried my very best) and make a pdf,
+### If we scrap this webpage(which I can't able to do but I tried my very best) and make a pdf,
 
 
 ## -- After that just follow the instruction...
