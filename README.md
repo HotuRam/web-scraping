@@ -69,27 +69,6 @@
  
 <br />
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="400" height="250" />
-<br />
-<br />
-<br />
-<br />
-<br />    
-<br />    
-<br />
-<br />    
-<br /> 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /> 
-
-<br />
   <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/13.png?raw=true" width="400" height="250" />
 <br />
 <br />
