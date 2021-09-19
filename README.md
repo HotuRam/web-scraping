@@ -53,7 +53,7 @@
 
  ## clone the repo.
  
-      git clone https://github.com/HotuRam/Image-scraping-Python-
+      git clone https://github.com/HotuRam/webpage_scraping
       
  ## requirements-
   ---- copy and paste below code in cmd
