@@ -58,7 +58,7 @@
  ## requirements-
   ---- copy and paste below code in cmd
   
-      cd web_scraping_new
+      cd webpage_scraping
       pip install -r requirements.txt
       
  ## here we go
