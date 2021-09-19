@@ -1,2 +1,4 @@
 fitz
 PyMuPDF
+cv2
+easyocr
