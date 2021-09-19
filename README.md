@@ -220,10 +220,10 @@
 
 
 
- ## Its time to draw the Ractangle box on text
+ ### Its time to draw the Ractangle box on text
  
- ## Open the img2text.ipynb and give the google ad image path (absolute path please)
-  ## Run all cell you got the output like 
+ ### Open the img2text.ipynb and give the google ad image path (absolute path please)
+  ### Run all cell you got the output like 
   
 <br />
 
@@ -260,9 +260,6 @@
 <br />
 <br />
 <br /> 
-<br />
-<br />
-<br />
 
   
 ### 1. Here I successfully extarct the google ad from the webpage which is in pdf form.         
