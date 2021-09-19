@@ -226,10 +226,10 @@
   ## Run all cell you got the output like 
   
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/%231_live_streming_studio.png?raw=true" width="450" height="300" />
-  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/try%20for%20free.png?raw=true" width="450" height="300" />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/Restream.png?raw=true" width="450" height="300" />
-  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/steaming%20studio.png?raw=true" width="450" height="300" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/%231_live_streming_studio.png?raw=true" width="400" height="300" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/try%20for%20free.png?raw=true" width="400" height="300" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/Restream.png?raw=true" width="400" height="300" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/steaming%20studio.png?raw=true" width="400" height="300" />
   
   
   
