@@ -190,20 +190,6 @@
 <br />
 <br />
 <br />
-<br />    
-<br />    
-<br />
-<br />    
-<br /> 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-
 
 
 
@@ -212,9 +198,10 @@
         cd module2
         
  ### open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
-  ####          you are good to go and we successfully extract the text from google ad. 
+  ####          you are good to go and we successfully extract the text from above google ad. 
 
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/text_image%20_13.png?raw=true" width="800" height="450" />
+  
 <br />
 <br />
 <br />
@@ -230,8 +217,22 @@
 <br />
 <br />
 <br />
+
+
+ ## Its time to draw the Ractangle box on text
+ 
+ ## open the img2text.ipynb and give the google ad image path (absolute path please)
+  ## run all cell you got the output like 
+  
+<br />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/%231_live_streming_studio.png?raw=true" width="450" height="300" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/try%20for%20free.png?raw=true" width="450" height="300" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/Restream.png?raw=true" width="450" height="300" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/bounding%20box/steaming%20studio.png?raw=true" width="450" height="300" />
   
   
+  
+<br />
   
   
 
