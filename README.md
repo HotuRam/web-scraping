@@ -49,3 +49,9 @@
  ## clone the repo.
  
       git clone https://github.com/HotuRam/Image-scraping-Python-
+      
+ ## requirements-
+  ---- copy and paste below code in cmd
+  
+      cd Image-scraping-Python-
+      pip install -r requirements.txt
