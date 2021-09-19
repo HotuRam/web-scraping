@@ -150,9 +150,7 @@
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/13.png?raw=true" width="450" height="300" />
   <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/16.png?raw=true" width="100" height="700" />
   <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images2/15.png?raw=true" width="100" height="700" />
-  
-  
-  
+   
 <br />
 <br />
 <br />
@@ -179,12 +177,6 @@
 <br />
 <br />    
 <br /> 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
