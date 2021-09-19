@@ -134,7 +134,7 @@
  
 ### Just open this link - https://www.onlineconverter.com/add-audio-to-video
  
-### Print (ctrl+p) this page (which have google ad.) save this as pdf name sample_2.pdf
+### Print (ctrl+p) this page (which have google ad.) save this as pdf name sample_2.pdf(you can give like sample_3 or..)
 
 ## Then here we go
       
