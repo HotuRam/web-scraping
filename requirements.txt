@@ -1,5 +1,5 @@
 fitz
 PyMuPDF
-cv2
+openCV
 easyocr
 matplotlib
