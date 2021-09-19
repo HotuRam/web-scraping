@@ -103,7 +103,7 @@
   ####          you are good to go and we successfully extract the text from google ad. 
   
   
-  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/ocr_text.png?raw=true" width="450" height="300" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/ocr_text.png?raw=true" width="800" height="450" />
 <br />
 <br />
 <br />
