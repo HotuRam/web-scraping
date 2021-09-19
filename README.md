@@ -188,7 +188,6 @@
 
  ###  Here, easyocr come in play.....
  
-        cd module2
         
  ### Open file name image_to_text.py give appropriate path of google ad(image file which is...in our case 13.png) 
  ##                                       or
