@@ -1,5 +1,7 @@
 # webpage_scraping
 
+### Instruction video link - https://youtu.be/KEgOKMftoCs
+
 ## Part 2 - Write a Python program to extract the follow from the scraped ad:
 - logo
 - text
