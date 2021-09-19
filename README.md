@@ -30,8 +30,9 @@
 <br />
 <br />
 
-## ...guess what we scrap this webpage(which I can,t do that but I tried my very best) and make a pdf,         
-###   after that just follow the instruction...
+### If we scrap this webpage(which I can,t do that but I tried my very best) and make a pdf,
+
+##   after that just follow the instruction...
 
 ### For window users - open cmd (window command line) 
 ### Create new anaconda environment - 
@@ -66,7 +67,7 @@
  ##### yup, we extract the google ad with other images(logo) successfully....great..
  
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="800" height="450" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="600" height="350" />
 <br />
 <br />
 <br />
@@ -88,7 +89,7 @@
 <br /> 
 
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/13.png?raw=true" width="800" height="450" />
+  <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/13.png?raw=true" width="600" height="350" />
 <br />
 <br />
 <br />
@@ -110,7 +111,7 @@
 <br />  
 
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/15.png?raw=true" width="800" height="450" />
+  <img align="middle" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/15.png?raw=true" width="200" height="100" />
 <br />
 <br />
 <br />
