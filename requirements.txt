@@ -1,5 +1,5 @@
 fitz
-PyMuPDF
+PyMuPDF==1.16.14
 opencv-python
 easyocr
 matplotlib
