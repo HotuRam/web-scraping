@@ -29,9 +29,8 @@
 <br />
 <br />
 <br />
-<br />
 
-#### ...we scrap this webpage and make a pdf,(which I can,t do that but I tried my very best)         
+#### ...we scrap this webpage(which I can,t do that but I tried my very best) and make a pdf,         
 ###   after that just follow the instruction...
 
 ### For window users - open cmd (window command line) 
