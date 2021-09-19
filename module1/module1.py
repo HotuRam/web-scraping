@@ -3,7 +3,7 @@
 
 import fitz
 
-file =  'images\sample_1.pdf'
+file =  'sample_2.pdf'
 
 pdf = fitz.open(file)
 image_list = pdf.getPageImageList(0)
