@@ -135,12 +135,12 @@
  
 ### Just open this link - https://www.onlineconverter.com/add-audio-to-video
  
-### Print (ctrl+p) this page (which have google ad.) save this as pdf name sample_2.pdf(you can give like sample_3 or..)
+### Print (ctrl+p) this page (which have google ad.) save this as pdf name sample_3.pdf
 
 ## Then here we go
       
      
-### Open module1.py file give the path of webpage(webpage is a pdf file..in our case sample_2.pdf)
+### Open module1.py file give the path of webpage(webpage is a pdf file..in our case sample_3.pdf)
 
 ### Run the py file
 
