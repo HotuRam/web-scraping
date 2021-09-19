@@ -7,6 +7,7 @@
 - product image (or) any image, if any
 - background image
 
+# Just follow the Instruction in repo you find all the things.. 
 # So here we go........... this is our webpage (below)
 <br />
   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/17.png?raw=true" width="800" height="450" />
@@ -234,6 +235,25 @@
   
   
 <br />
+<br />    
+<br />
+<br />    
+<br /> 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /> 
   
-  
+### 1. Here I successfully extarct the google ad from the webpage which is in pdf form.         
+### 1. I successfully extract the text from the google ad.        
+### 3. and also I successfully drow rectangle box on the text where we actually want it.        
+
+### I tried alot to scrap the webpage and extraxt the google ad but I was not able to do that using beatufulsoup and other tools.     
+
 
