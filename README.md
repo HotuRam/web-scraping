@@ -263,7 +263,7 @@
   
 ### 1. Here I successfully extarct the google ad from the webpage which is in pdf form.         
 ### 1. I successfully extract the text from the google ad.        
-### 3. and also I successfully drow rectangle box on the text where we actually want it.        
+### 3. and also I successfully draw rectangle box on the text where we actually want it.        
 
 ### I tried alot to scrap the webpage and extraxt the google ad but I was not able to do that using beatufulsoup and other tools.     
 
