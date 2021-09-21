@@ -15,7 +15,7 @@
 <!--   <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/17.png?raw=true" width="800" height="450" /> -->
 <br />
 <br />
-<!-- <br />
+<br />
 <br />
 <br />    
 <br />    
@@ -31,7 +31,7 @@
 <br />
 <br />
 <br />
-<br /> -->
+<br />
 
 ### If we scrap this webpage(which I can't able to do but I tried my very best) and make a pdf,
 
@@ -63,7 +63,7 @@
       cd webpage_scraping
       pip install -r requirements.txt
       
-<!--  ## here we go
+## here we go
       
       cd module1
      
@@ -131,7 +131,7 @@
 <br />
 <br />
 <br />
-   -->
+ 
   
  # Here we see how our code work on new data...right
  
