@@ -104,7 +104,7 @@
  
  ###  Here, easyocr come in play.....
  
-        cd module2
+      
         
  ### Open file name image_to_text.py give appropriate path of google ad(image file which is...) 
   ####          You are good to go and we successfully extract the text from google ad. 
