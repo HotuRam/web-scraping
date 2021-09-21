@@ -65,13 +65,13 @@
       
 ## here we go
       
-      cd module1
+      
      
 ###### open module1.py file give the path of webpage(webpage is a pdf file..in my case sample_1.pdf)
  ##### yup, we extract the google ad with other images(logo) successfully....great..
  
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="400" height="300" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/14.png?raw=true" width="350" height="300" />
   <img align="right" alt="image" src="https://github.com/HotuRam/webpage_scraping/blob/main/images/13.png?raw=true" width="400" height="300" />
 <br />
 <br />
